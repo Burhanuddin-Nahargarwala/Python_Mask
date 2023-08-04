@@ -9,4 +9,6 @@ def mask_name(name):
 name = "Stanley Richards"
 masked_name = mask_name(name)
 
+print("Shyam")
+
 print(masked_name)
